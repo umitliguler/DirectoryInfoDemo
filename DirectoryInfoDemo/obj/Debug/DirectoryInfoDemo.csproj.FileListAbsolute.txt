@@ -1,0 +1,5 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DirectoryInfoDemo\DirectoryInfoDemo\bin\Debug\DirectoryInfoDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DirectoryInfoDemo\DirectoryInfoDemo\bin\Debug\DirectoryInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DirectoryInfoDemo\DirectoryInfoDemo\bin\Debug\DirectoryInfoDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DirectoryInfoDemo\DirectoryInfoDemo\obj\Debug\DirectoryInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DirectoryInfoDemo\DirectoryInfoDemo\obj\Debug\DirectoryInfoDemo.pdb
